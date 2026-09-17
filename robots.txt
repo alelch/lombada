@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /admin
-Sitemap: https://alelch.github.io/lombada/sitemap.xml
+Sitemap: https://lombada.thebookbusiness.com.br/sitemap.xml
